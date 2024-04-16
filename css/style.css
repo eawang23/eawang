@@ -32,7 +32,11 @@
 .nav-item{
     margin: 0px 15px;
 }
-
+.logo-image {
+ 
+  width: 200px; 
+  height: 45; 
+}
 .dropdown-menu{
     background: url("../images/transparency.png");
     background-color: transparent !important;
