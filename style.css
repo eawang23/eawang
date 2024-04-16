@@ -1,0 +1,226 @@
+.cormorant-garamond-medium {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.customNav{
+    position: fixed;
+    width: 100%;
+    background-color: #7F927C !important;
+    background-size: cover;
+    z-index: 10;
+    font-family: "Cormorant Garamond", serif;
+}
+.navbar-nav{
+    margin-left: auto !important;
+    margin-right: 0 !important;
+}
+.navbar-brand img{
+    padding-right: 15px;
+    width: 65px;
+}
+.nav-item{
+    margin: 0px 15px;
+}
+
+.dropdown-menu{
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+    background-size: cover;
+}
+.dropdown-item:focus, .dropdown-item:hover{
+    color: #16181b;
+    text-decoration: none;
+    background: black;
+}
+.customNav a {
+    color: black !important;
+}
+.navCTA{
+    font-size: 15px;
+}
+.jumbotron{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px !important;
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.p.jumboCopy{
+    justify-content: center !important;
+}
+.jumboCopy{
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    color: black;
+    text-align: center !important;
+}
+h1{
+    color: black;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 200px !important; 
+    font-weight: 100 !important;
+    line-height: 63px;
+}
+h2{
+    color: black;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 100px;
+}
+h3{
+    font-family: "Cormorant Garamond", serif;
+    font-size: 70px !important;
+}
+h4{
+    font-family: "Poppins", serif;
+    font-size: 40px !important;
+}
+.sectionSkills{
+    padding: 50;
+    background-color: #7F927C !important;
+    font-family: "Cormorant Garamond", serif;
+    color: white;
+}
+.skillsList ul{
+    font-family: "Poppins", sans-serif !important;
+    padding-left: 0px;
+    font-size: 18px;
+    line-height: 60px;   
+    padding-top: 70px !important;
+    align-items: center;
+}
+.skillsList li{    
+    display: flex;
+    align-items: center !important;
+    width: 410px;
+    min-width: 315px;
+    font-size: 18px;
+    line-height: 70px;
+}
+.skillsList.techSkills{
+    /* padding-left: 140; */
+}
+.MyIcons {
+    margin-right: 10px; /* Add a small margin to the right of the icons for spacing */
+    vertical-align: middle; /* Align icons vertically with text */
+    width: 32px;
+    padding-right: 15px;
+}
+.skillsList {
+    list-style-type: none; /* Remove default list style */
+    padding-left: 0; 
+    display: flex;
+    flex-direction: column;
+    align-items: center !important; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+    text-align: center !important; /* Center text horizontally */
+}
+img.casestudyimg {
+    width: 600px;
+    padding-left: 50;
+
+}
+
+.rounded-button {
+    background-color: white;
+    color: #36642E;
+    border: 2px solid #36642E;
+    border-radius: 40px;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Cormorant Garamont", serif;
+    font-size: 16px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.projects{
+    padding-top: 50;
+}
+.rounded-button {
+    width: 155px; /* Adjust this value as needed */
+}
+.rounded-button:hover {
+    background-color: #264520;
+    color: white;
+}
+
+.nonprof{
+    padding-top: 100;
+    padding-bottom: 100;
+    padding-right: 75; 
+}
+.mobile{
+    padding-top: 100;
+    padding-bottom: 100;
+    padding-left: 100;
+}
+
+.nsa{
+    padding-top: 100;
+    padding-bottom: 100;
+    padding-right: 75;
+}
+.about{
+    display: flex;
+    padding-bottom: 140px;
+    background-color: black;
+    padding-left: 100;
+    padding-right: 100;
+}
+/* .sectionAbout{
+    height: 600;
+} */
+.contentAbout{
+    color: white;
+}
+
+.profileimg{
+    padding-top: 100px;
+}
+
+.contact-button {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 40px;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Cormorant Garamont", serif;
+    font-size: 16px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.contact-button{
+    width: 157px;
+}
+.contact-button:hover {
+    background-color: white;
+    color: black;
+}
+h5{
+    font-family: "Cormorant Garamond", serif;
+    font-size: 120px !important;
+    padding-top: 100px;
+}
+h6{
+    font-family: "Cormorant Garamond", serif;
+    font-size: 20px !important;
+    font-weight: 2 !important;
+}
