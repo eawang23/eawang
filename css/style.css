@@ -223,7 +223,7 @@ h5{
     padding-top: 100px;
 }
 h6{
-    font-family: "Cormorant Garamond", serif;
+    font-family: "Poppins", sans-serif !important;
     font-size: 20px !important;
     font-weight: 2 !important;
 }
